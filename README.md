@@ -7,7 +7,7 @@ This is a simple set of XSL templates used to generate SVG business cards.
 LICENCE
 -------
 
-.. image:: http://www.gnu.org/graphics/agplv3-155x51.png
+![AGPLv3](http://www.gnu.org/graphics/agplv3-155x51.png)
 
 Copyright (C) 2011 Synap System SARL
 
